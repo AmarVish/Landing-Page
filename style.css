@@ -1,0 +1,18 @@
+.back-img {
+      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url('/ship.jpeg') center/cover no-repeat;
+      color: white;
+      text-align: left;
+      padding: 100px 20px;
+    }
+    .footer {
+       color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .dd{
+      background-color:#8B4513;
+    }
+    .pirate-icon {
+            font-size: 30px;
+            color: white;
+        }
